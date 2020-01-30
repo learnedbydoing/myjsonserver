@@ -1,14 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "ca-jobs: [
+  "ca-jobs": [
     {
       "id": 157646
     },
@@ -24,5 +15,14 @@
     {
       "id": 156956
     },
-  ]
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
