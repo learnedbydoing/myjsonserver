@@ -1,5 +1,11 @@
 {
-  "ca-jobs": [
+  "list": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "jobs": [
     {
       "id": 157646
     },
